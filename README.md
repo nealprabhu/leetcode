@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nealprabhu/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nealprabhu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nealprabhu/leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nealprabhu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nealprabhu/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nealprabhu/leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/nealprabhu/leetcode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/nealprabhu/leetcode/tree/master/0338-counting-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nealprabhu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

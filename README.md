@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/nealprabhu/leetcode/tree/master/0056-merge-intervals) |
 | [0347-top-k-frequent-elements](https://github.com/nealprabhu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/nealprabhu/leetcode/tree/master/0377-combination-sum-iv) |
+| [1524-string-matching-in-an-array](https://github.com/nealprabhu/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nealprabhu/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/nealprabhu/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nealprabhu/leetcode/tree/master/0125-valid-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/nealprabhu/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nealprabhu/leetcode/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/nealprabhu/leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->

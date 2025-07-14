@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nealprabhu/leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/nealprabhu/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nealprabhu/leetcode/tree/master/0056-merge-intervals) |
+| [0198-house-robber](https://github.com/nealprabhu/leetcode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/nealprabhu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/nealprabhu/leetcode/tree/master/0377-combination-sum-iv) |
 | [1524-string-matching-in-an-array](https://github.com/nealprabhu/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nealprabhu/leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/nealprabhu/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/nealprabhu/leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/nealprabhu/leetcode/tree/master/0377-combination-sum-iv) |
 ## Memoization

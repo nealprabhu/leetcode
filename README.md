@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nealprabhu/leetcode/tree/master/0198-house-robber) |
 | [0347-top-k-frequent-elements](https://github.com/nealprabhu/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/nealprabhu/leetcode/tree/master/0377-combination-sum-iv) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/nealprabhu/leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/nealprabhu/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1524-string-matching-in-an-array](https://github.com/nealprabhu/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Hash Table
